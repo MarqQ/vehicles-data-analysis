@@ -13,5 +13,3 @@ dataset_02 = pd.read_csv(vehicles_03)
 print(dataset_00)
 print(dataset_01)
 print(dataset_02)
-
-print('oi')

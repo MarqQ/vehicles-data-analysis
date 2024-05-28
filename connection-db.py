@@ -1,7 +1,7 @@
 import psycopg2
 
 
-connection = psycopg2.connect(database="db_vehicles", 
+connection = psycopg2.connect(database="vehicles_data", 
                               host="localhost", 
                               user="postgres", 
                               password="admin",
